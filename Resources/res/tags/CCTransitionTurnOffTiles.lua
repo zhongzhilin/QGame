@@ -1,0 +1,111 @@
+---@classdef CCTransitionTurnOffTiles
+CCTransitionTurnOffTiles = {}
+function CCTransitionTurnOffTiles:autorelease() end 
+function CCTransitionTurnOffTiles:retain() end 
+function CCTransitionTurnOffTiles:retainCount() end 
+function CCTransitionTurnOffTiles:isEqual() end 
+function CCTransitionTurnOffTiles:copy() end 
+function CCTransitionTurnOffTiles:release() end 
+function CCTransitionTurnOffTiles:isSingleReference() end 
+function CCTransitionTurnOffTiles:visit() end 
+function CCTransitionTurnOffTiles:getUserObject() end 
+function CCTransitionTurnOffTiles:getSkewY() end 
+function CCTransitionTurnOffTiles:convertTouchToNodeSpace() end 
+function CCTransitionTurnOffTiles:getVertexZ() end 
+function CCTransitionTurnOffTiles:setParent() end 
+function CCTransitionTurnOffTiles:boundingBox() end 
+function CCTransitionTurnOffTiles:setVisible() end 
+function CCTransitionTurnOffTiles:stopActionByTag() end 
+function CCTransitionTurnOffTiles:getScaleY() end 
+function CCTransitionTurnOffTiles:setScaleX() end 
+function CCTransitionTurnOffTiles:reorderChild() end 
+function CCTransitionTurnOffTiles:setPositionX() end 
+function CCTransitionTurnOffTiles:removeFromParentAndCleanup() end 
+function CCTransitionTurnOffTiles:setTag() end 
+function CCTransitionTurnOffTiles:getChildrenCount() end 
+function CCTransitionTurnOffTiles:setScale() end 
+function CCTransitionTurnOffTiles:addChild() end 
+function CCTransitionTurnOffTiles:isVisible() end 
+function CCTransitionTurnOffTiles:setActionManager() end 
+function CCTransitionTurnOffTiles:setScheduler() end 
+function CCTransitionTurnOffTiles:getContentSize() end 
+function CCTransitionTurnOffTiles:getAnchorPoint() end 
+function CCTransitionTurnOffTiles:getTag() end 
+function CCTransitionTurnOffTiles:setGrid() end 
+function CCTransitionTurnOffTiles:convertToWorldSpace() end 
+function CCTransitionTurnOffTiles:setSkewX() end 
+function CCTransitionTurnOffTiles:setZOrder() end 
+function CCTransitionTurnOffTiles:worldToNodeTransform() end 
+function CCTransitionTurnOffTiles:getPosition() end 
+function CCTransitionTurnOffTiles:getSkewX() end 
+function CCTransitionTurnOffTiles:getScheduler() end 
+function CCTransitionTurnOffTiles:ignoreAnchorPointForPosition() end 
+function CCTransitionTurnOffTiles:setPosition() end 
+function CCTransitionTurnOffTiles:getParent() end 
+function CCTransitionTurnOffTiles:unscheduleUpdate() end 
+function CCTransitionTurnOffTiles:scheduleUpdateWithPriorityLua() end 
+function CCTransitionTurnOffTiles:removeChildByTag() end 
+function CCTransitionTurnOffTiles:convertToNodeSpaceAR() end 
+function CCTransitionTurnOffTiles:convertTouchToNodeSpaceAR() end 
+function CCTransitionTurnOffTiles:convertToWorldSpaceAR() end 
+function CCTransitionTurnOffTiles:setRotation() end 
+function CCTransitionTurnOffTiles:getComponent() end 
+function CCTransitionTurnOffTiles:convertToNodeSpace() end 
+---
+-- @return @class CCTransitionTurnOffTiles
+--
+function CCTransitionTurnOffTiles:create() end 
+function CCTransitionTurnOffTiles:getScale() end 
+function CCTransitionTurnOffTiles:getPositionY() end 
+function CCTransitionTurnOffTiles:getChildByTag() end 
+function CCTransitionTurnOffTiles:setContentSize() end 
+function CCTransitionTurnOffTiles:description() end 
+function CCTransitionTurnOffTiles:cleanup() end 
+function CCTransitionTurnOffTiles:getRotation() end 
+function CCTransitionTurnOffTiles:nodeToParentTransform() end 
+function CCTransitionTurnOffTiles:stopAction() end 
+function CCTransitionTurnOffTiles:numberOfRunningActions() end 
+function CCTransitionTurnOffTiles:removeAllChildren() end 
+function CCTransitionTurnOffTiles:runAction() end 
+function CCTransitionTurnOffTiles:setUserObject() end 
+function CCTransitionTurnOffTiles:parentToNodeTransform() end 
+function CCTransitionTurnOffTiles:removeChild() end 
+function CCTransitionTurnOffTiles:getAnchorPointInPoints() end 
+function CCTransitionTurnOffTiles:getScaleX() end 
+function CCTransitionTurnOffTiles:transform() end 
+function CCTransitionTurnOffTiles:getActionManager() end 
+function CCTransitionTurnOffTiles:draw() end 
+function CCTransitionTurnOffTiles:setScaleY() end 
+function CCTransitionTurnOffTiles:unregisterScriptHandler() end 
+function CCTransitionTurnOffTiles:setVertexZ() end 
+function CCTransitionTurnOffTiles:setAnchorPoint() end 
+function CCTransitionTurnOffTiles:getShaderProgram() end 
+function CCTransitionTurnOffTiles:stopAllActions() end 
+function CCTransitionTurnOffTiles:setUserData() end 
+function CCTransitionTurnOffTiles:setShaderProgram() end 
+function CCTransitionTurnOffTiles:getActionByTag() end 
+function CCTransitionTurnOffTiles:getGLServerState() end 
+function CCTransitionTurnOffTiles:getOrderOfArrival() end 
+function CCTransitionTurnOffTiles:getPositionX() end 
+function CCTransitionTurnOffTiles:setGLServerState() end 
+function CCTransitionTurnOffTiles:setSkewY() end 
+function CCTransitionTurnOffTiles:setOrderOfArrival() end 
+function CCTransitionTurnOffTiles:nodeToWorldTransform() end 
+function CCTransitionTurnOffTiles:getChildren() end 
+function CCTransitionTurnOffTiles:transformAncestors() end 
+function CCTransitionTurnOffTiles:getGrid() end 
+function CCTransitionTurnOffTiles:isRunning() end 
+function CCTransitionTurnOffTiles:registerScriptHandler() end 
+function CCTransitionTurnOffTiles:getCamera() end 
+function CCTransitionTurnOffTiles:isIgnoreAnchorPointForPosition() end 
+function CCTransitionTurnOffTiles:getUserData() end 
+function CCTransitionTurnOffTiles:setPositionY() end 
+function CCTransitionTurnOffTiles:getZOrder() end 
+---
+-- @return @class CCTransitionTurnOffTiles
+--
+function CCTransitionTurnOffTiles:create() end 
+---
+-- @return @class CCTransitionTurnOffTiles
+--
+function CCTransitionTurnOffTiles:create() end 

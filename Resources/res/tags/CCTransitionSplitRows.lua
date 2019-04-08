@@ -1,0 +1,111 @@
+---@classdef CCTransitionSplitRows
+CCTransitionSplitRows = {}
+function CCTransitionSplitRows:autorelease() end 
+function CCTransitionSplitRows:retain() end 
+function CCTransitionSplitRows:retainCount() end 
+function CCTransitionSplitRows:isEqual() end 
+function CCTransitionSplitRows:copy() end 
+function CCTransitionSplitRows:release() end 
+function CCTransitionSplitRows:isSingleReference() end 
+function CCTransitionSplitRows:visit() end 
+function CCTransitionSplitRows:getUserObject() end 
+function CCTransitionSplitRows:getSkewY() end 
+function CCTransitionSplitRows:convertTouchToNodeSpace() end 
+function CCTransitionSplitRows:getVertexZ() end 
+function CCTransitionSplitRows:setParent() end 
+function CCTransitionSplitRows:boundingBox() end 
+function CCTransitionSplitRows:setVisible() end 
+function CCTransitionSplitRows:stopActionByTag() end 
+function CCTransitionSplitRows:getScaleY() end 
+function CCTransitionSplitRows:setScaleX() end 
+function CCTransitionSplitRows:reorderChild() end 
+function CCTransitionSplitRows:setPositionX() end 
+function CCTransitionSplitRows:removeFromParentAndCleanup() end 
+function CCTransitionSplitRows:setTag() end 
+function CCTransitionSplitRows:getChildrenCount() end 
+function CCTransitionSplitRows:setScale() end 
+function CCTransitionSplitRows:addChild() end 
+function CCTransitionSplitRows:isVisible() end 
+function CCTransitionSplitRows:setActionManager() end 
+function CCTransitionSplitRows:setScheduler() end 
+function CCTransitionSplitRows:getContentSize() end 
+function CCTransitionSplitRows:getAnchorPoint() end 
+function CCTransitionSplitRows:getTag() end 
+function CCTransitionSplitRows:setGrid() end 
+function CCTransitionSplitRows:convertToWorldSpace() end 
+function CCTransitionSplitRows:setSkewX() end 
+function CCTransitionSplitRows:setZOrder() end 
+function CCTransitionSplitRows:worldToNodeTransform() end 
+function CCTransitionSplitRows:getPosition() end 
+function CCTransitionSplitRows:getSkewX() end 
+function CCTransitionSplitRows:getScheduler() end 
+function CCTransitionSplitRows:ignoreAnchorPointForPosition() end 
+function CCTransitionSplitRows:setPosition() end 
+function CCTransitionSplitRows:getParent() end 
+function CCTransitionSplitRows:unscheduleUpdate() end 
+function CCTransitionSplitRows:scheduleUpdateWithPriorityLua() end 
+function CCTransitionSplitRows:removeChildByTag() end 
+function CCTransitionSplitRows:convertToNodeSpaceAR() end 
+function CCTransitionSplitRows:convertTouchToNodeSpaceAR() end 
+function CCTransitionSplitRows:convertToWorldSpaceAR() end 
+function CCTransitionSplitRows:setRotation() end 
+function CCTransitionSplitRows:getComponent() end 
+function CCTransitionSplitRows:convertToNodeSpace() end 
+---
+-- @return @class CCTransitionSplitRows
+--
+function CCTransitionSplitRows:create() end 
+function CCTransitionSplitRows:getScale() end 
+function CCTransitionSplitRows:getPositionY() end 
+function CCTransitionSplitRows:getChildByTag() end 
+function CCTransitionSplitRows:setContentSize() end 
+function CCTransitionSplitRows:description() end 
+function CCTransitionSplitRows:cleanup() end 
+function CCTransitionSplitRows:getRotation() end 
+function CCTransitionSplitRows:nodeToParentTransform() end 
+function CCTransitionSplitRows:stopAction() end 
+function CCTransitionSplitRows:numberOfRunningActions() end 
+function CCTransitionSplitRows:removeAllChildren() end 
+function CCTransitionSplitRows:runAction() end 
+function CCTransitionSplitRows:setUserObject() end 
+function CCTransitionSplitRows:parentToNodeTransform() end 
+function CCTransitionSplitRows:removeChild() end 
+function CCTransitionSplitRows:getAnchorPointInPoints() end 
+function CCTransitionSplitRows:getScaleX() end 
+function CCTransitionSplitRows:transform() end 
+function CCTransitionSplitRows:getActionManager() end 
+function CCTransitionSplitRows:draw() end 
+function CCTransitionSplitRows:setScaleY() end 
+function CCTransitionSplitRows:unregisterScriptHandler() end 
+function CCTransitionSplitRows:setVertexZ() end 
+function CCTransitionSplitRows:setAnchorPoint() end 
+function CCTransitionSplitRows:getShaderProgram() end 
+function CCTransitionSplitRows:stopAllActions() end 
+function CCTransitionSplitRows:setUserData() end 
+function CCTransitionSplitRows:setShaderProgram() end 
+function CCTransitionSplitRows:getActionByTag() end 
+function CCTransitionSplitRows:getGLServerState() end 
+function CCTransitionSplitRows:getOrderOfArrival() end 
+function CCTransitionSplitRows:getPositionX() end 
+function CCTransitionSplitRows:setGLServerState() end 
+function CCTransitionSplitRows:setSkewY() end 
+function CCTransitionSplitRows:setOrderOfArrival() end 
+function CCTransitionSplitRows:nodeToWorldTransform() end 
+function CCTransitionSplitRows:getChildren() end 
+function CCTransitionSplitRows:transformAncestors() end 
+function CCTransitionSplitRows:getGrid() end 
+function CCTransitionSplitRows:isRunning() end 
+function CCTransitionSplitRows:registerScriptHandler() end 
+function CCTransitionSplitRows:getCamera() end 
+function CCTransitionSplitRows:isIgnoreAnchorPointForPosition() end 
+function CCTransitionSplitRows:getUserData() end 
+function CCTransitionSplitRows:setPositionY() end 
+function CCTransitionSplitRows:getZOrder() end 
+---
+-- @return @class CCTransitionSplitRows
+--
+function CCTransitionSplitRows:create() end 
+---
+-- @return @class CCTransitionSplitRows
+--
+function CCTransitionSplitRows:create() end 

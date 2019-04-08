@@ -1,0 +1,111 @@
+---@classdef CCTransitionMoveInR
+CCTransitionMoveInR = {}
+function CCTransitionMoveInR:autorelease() end 
+function CCTransitionMoveInR:retain() end 
+function CCTransitionMoveInR:retainCount() end 
+function CCTransitionMoveInR:isEqual() end 
+function CCTransitionMoveInR:copy() end 
+function CCTransitionMoveInR:release() end 
+function CCTransitionMoveInR:isSingleReference() end 
+function CCTransitionMoveInR:visit() end 
+function CCTransitionMoveInR:getUserObject() end 
+function CCTransitionMoveInR:getSkewY() end 
+function CCTransitionMoveInR:convertTouchToNodeSpace() end 
+function CCTransitionMoveInR:getVertexZ() end 
+function CCTransitionMoveInR:setParent() end 
+function CCTransitionMoveInR:boundingBox() end 
+function CCTransitionMoveInR:setVisible() end 
+function CCTransitionMoveInR:stopActionByTag() end 
+function CCTransitionMoveInR:getScaleY() end 
+function CCTransitionMoveInR:setScaleX() end 
+function CCTransitionMoveInR:reorderChild() end 
+function CCTransitionMoveInR:setPositionX() end 
+function CCTransitionMoveInR:removeFromParentAndCleanup() end 
+function CCTransitionMoveInR:setTag() end 
+function CCTransitionMoveInR:getChildrenCount() end 
+function CCTransitionMoveInR:setScale() end 
+function CCTransitionMoveInR:addChild() end 
+function CCTransitionMoveInR:isVisible() end 
+function CCTransitionMoveInR:setActionManager() end 
+function CCTransitionMoveInR:setScheduler() end 
+function CCTransitionMoveInR:getContentSize() end 
+function CCTransitionMoveInR:getAnchorPoint() end 
+function CCTransitionMoveInR:getTag() end 
+function CCTransitionMoveInR:setGrid() end 
+function CCTransitionMoveInR:convertToWorldSpace() end 
+function CCTransitionMoveInR:setSkewX() end 
+function CCTransitionMoveInR:setZOrder() end 
+function CCTransitionMoveInR:worldToNodeTransform() end 
+function CCTransitionMoveInR:getPosition() end 
+function CCTransitionMoveInR:getSkewX() end 
+function CCTransitionMoveInR:getScheduler() end 
+function CCTransitionMoveInR:ignoreAnchorPointForPosition() end 
+function CCTransitionMoveInR:setPosition() end 
+function CCTransitionMoveInR:getParent() end 
+function CCTransitionMoveInR:unscheduleUpdate() end 
+function CCTransitionMoveInR:scheduleUpdateWithPriorityLua() end 
+function CCTransitionMoveInR:removeChildByTag() end 
+function CCTransitionMoveInR:convertToNodeSpaceAR() end 
+function CCTransitionMoveInR:convertTouchToNodeSpaceAR() end 
+function CCTransitionMoveInR:convertToWorldSpaceAR() end 
+function CCTransitionMoveInR:setRotation() end 
+function CCTransitionMoveInR:getComponent() end 
+function CCTransitionMoveInR:convertToNodeSpace() end 
+---
+-- @return @class CCTransitionMoveInR
+--
+function CCTransitionMoveInR:create() end 
+function CCTransitionMoveInR:getScale() end 
+function CCTransitionMoveInR:getPositionY() end 
+function CCTransitionMoveInR:getChildByTag() end 
+function CCTransitionMoveInR:setContentSize() end 
+function CCTransitionMoveInR:description() end 
+function CCTransitionMoveInR:cleanup() end 
+function CCTransitionMoveInR:getRotation() end 
+function CCTransitionMoveInR:nodeToParentTransform() end 
+function CCTransitionMoveInR:stopAction() end 
+function CCTransitionMoveInR:numberOfRunningActions() end 
+function CCTransitionMoveInR:removeAllChildren() end 
+function CCTransitionMoveInR:runAction() end 
+function CCTransitionMoveInR:setUserObject() end 
+function CCTransitionMoveInR:parentToNodeTransform() end 
+function CCTransitionMoveInR:removeChild() end 
+function CCTransitionMoveInR:getAnchorPointInPoints() end 
+function CCTransitionMoveInR:getScaleX() end 
+function CCTransitionMoveInR:transform() end 
+function CCTransitionMoveInR:getActionManager() end 
+function CCTransitionMoveInR:draw() end 
+function CCTransitionMoveInR:setScaleY() end 
+function CCTransitionMoveInR:unregisterScriptHandler() end 
+function CCTransitionMoveInR:setVertexZ() end 
+function CCTransitionMoveInR:setAnchorPoint() end 
+function CCTransitionMoveInR:getShaderProgram() end 
+function CCTransitionMoveInR:stopAllActions() end 
+function CCTransitionMoveInR:setUserData() end 
+function CCTransitionMoveInR:setShaderProgram() end 
+function CCTransitionMoveInR:getActionByTag() end 
+function CCTransitionMoveInR:getGLServerState() end 
+function CCTransitionMoveInR:getOrderOfArrival() end 
+function CCTransitionMoveInR:getPositionX() end 
+function CCTransitionMoveInR:setGLServerState() end 
+function CCTransitionMoveInR:setSkewY() end 
+function CCTransitionMoveInR:setOrderOfArrival() end 
+function CCTransitionMoveInR:nodeToWorldTransform() end 
+function CCTransitionMoveInR:getChildren() end 
+function CCTransitionMoveInR:transformAncestors() end 
+function CCTransitionMoveInR:getGrid() end 
+function CCTransitionMoveInR:isRunning() end 
+function CCTransitionMoveInR:registerScriptHandler() end 
+function CCTransitionMoveInR:getCamera() end 
+function CCTransitionMoveInR:isIgnoreAnchorPointForPosition() end 
+function CCTransitionMoveInR:getUserData() end 
+function CCTransitionMoveInR:setPositionY() end 
+function CCTransitionMoveInR:getZOrder() end 
+---
+-- @return @class CCTransitionMoveInR
+--
+function CCTransitionMoveInR:create() end 
+---
+-- @return @class CCTransitionMoveInR
+--
+function CCTransitionMoveInR:create() end 

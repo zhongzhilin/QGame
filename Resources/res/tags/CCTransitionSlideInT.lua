@@ -1,0 +1,111 @@
+---@classdef CCTransitionSlideInT
+CCTransitionSlideInT = {}
+function CCTransitionSlideInT:autorelease() end 
+function CCTransitionSlideInT:retain() end 
+function CCTransitionSlideInT:retainCount() end 
+function CCTransitionSlideInT:isEqual() end 
+function CCTransitionSlideInT:copy() end 
+function CCTransitionSlideInT:release() end 
+function CCTransitionSlideInT:isSingleReference() end 
+function CCTransitionSlideInT:visit() end 
+function CCTransitionSlideInT:getUserObject() end 
+function CCTransitionSlideInT:getSkewY() end 
+function CCTransitionSlideInT:convertTouchToNodeSpace() end 
+function CCTransitionSlideInT:getVertexZ() end 
+function CCTransitionSlideInT:setParent() end 
+function CCTransitionSlideInT:boundingBox() end 
+function CCTransitionSlideInT:setVisible() end 
+function CCTransitionSlideInT:stopActionByTag() end 
+function CCTransitionSlideInT:getScaleY() end 
+function CCTransitionSlideInT:setScaleX() end 
+function CCTransitionSlideInT:reorderChild() end 
+function CCTransitionSlideInT:setPositionX() end 
+function CCTransitionSlideInT:removeFromParentAndCleanup() end 
+function CCTransitionSlideInT:setTag() end 
+function CCTransitionSlideInT:getChildrenCount() end 
+function CCTransitionSlideInT:setScale() end 
+function CCTransitionSlideInT:addChild() end 
+function CCTransitionSlideInT:isVisible() end 
+function CCTransitionSlideInT:setActionManager() end 
+function CCTransitionSlideInT:setScheduler() end 
+function CCTransitionSlideInT:getContentSize() end 
+function CCTransitionSlideInT:getAnchorPoint() end 
+function CCTransitionSlideInT:getTag() end 
+function CCTransitionSlideInT:setGrid() end 
+function CCTransitionSlideInT:convertToWorldSpace() end 
+function CCTransitionSlideInT:setSkewX() end 
+function CCTransitionSlideInT:setZOrder() end 
+function CCTransitionSlideInT:worldToNodeTransform() end 
+function CCTransitionSlideInT:getPosition() end 
+function CCTransitionSlideInT:getSkewX() end 
+function CCTransitionSlideInT:getScheduler() end 
+function CCTransitionSlideInT:ignoreAnchorPointForPosition() end 
+function CCTransitionSlideInT:setPosition() end 
+function CCTransitionSlideInT:getParent() end 
+function CCTransitionSlideInT:unscheduleUpdate() end 
+function CCTransitionSlideInT:scheduleUpdateWithPriorityLua() end 
+function CCTransitionSlideInT:removeChildByTag() end 
+function CCTransitionSlideInT:convertToNodeSpaceAR() end 
+function CCTransitionSlideInT:convertTouchToNodeSpaceAR() end 
+function CCTransitionSlideInT:convertToWorldSpaceAR() end 
+function CCTransitionSlideInT:setRotation() end 
+function CCTransitionSlideInT:getComponent() end 
+function CCTransitionSlideInT:convertToNodeSpace() end 
+---
+-- @return @class CCTransitionSlideInT
+--
+function CCTransitionSlideInT:create() end 
+function CCTransitionSlideInT:getScale() end 
+function CCTransitionSlideInT:getPositionY() end 
+function CCTransitionSlideInT:getChildByTag() end 
+function CCTransitionSlideInT:setContentSize() end 
+function CCTransitionSlideInT:description() end 
+function CCTransitionSlideInT:cleanup() end 
+function CCTransitionSlideInT:getRotation() end 
+function CCTransitionSlideInT:nodeToParentTransform() end 
+function CCTransitionSlideInT:stopAction() end 
+function CCTransitionSlideInT:numberOfRunningActions() end 
+function CCTransitionSlideInT:removeAllChildren() end 
+function CCTransitionSlideInT:runAction() end 
+function CCTransitionSlideInT:setUserObject() end 
+function CCTransitionSlideInT:parentToNodeTransform() end 
+function CCTransitionSlideInT:removeChild() end 
+function CCTransitionSlideInT:getAnchorPointInPoints() end 
+function CCTransitionSlideInT:getScaleX() end 
+function CCTransitionSlideInT:transform() end 
+function CCTransitionSlideInT:getActionManager() end 
+function CCTransitionSlideInT:draw() end 
+function CCTransitionSlideInT:setScaleY() end 
+function CCTransitionSlideInT:unregisterScriptHandler() end 
+function CCTransitionSlideInT:setVertexZ() end 
+function CCTransitionSlideInT:setAnchorPoint() end 
+function CCTransitionSlideInT:getShaderProgram() end 
+function CCTransitionSlideInT:stopAllActions() end 
+function CCTransitionSlideInT:setUserData() end 
+function CCTransitionSlideInT:setShaderProgram() end 
+function CCTransitionSlideInT:getActionByTag() end 
+function CCTransitionSlideInT:getGLServerState() end 
+function CCTransitionSlideInT:getOrderOfArrival() end 
+function CCTransitionSlideInT:getPositionX() end 
+function CCTransitionSlideInT:setGLServerState() end 
+function CCTransitionSlideInT:setSkewY() end 
+function CCTransitionSlideInT:setOrderOfArrival() end 
+function CCTransitionSlideInT:nodeToWorldTransform() end 
+function CCTransitionSlideInT:getChildren() end 
+function CCTransitionSlideInT:transformAncestors() end 
+function CCTransitionSlideInT:getGrid() end 
+function CCTransitionSlideInT:isRunning() end 
+function CCTransitionSlideInT:registerScriptHandler() end 
+function CCTransitionSlideInT:getCamera() end 
+function CCTransitionSlideInT:isIgnoreAnchorPointForPosition() end 
+function CCTransitionSlideInT:getUserData() end 
+function CCTransitionSlideInT:setPositionY() end 
+function CCTransitionSlideInT:getZOrder() end 
+---
+-- @return @class CCTransitionSlideInT
+--
+function CCTransitionSlideInT:create() end 
+---
+-- @return @class CCTransitionSlideInT
+--
+function CCTransitionSlideInT:create() end 

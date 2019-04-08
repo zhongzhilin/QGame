@@ -1,0 +1,19 @@
+---@classdef CCActionInstant
+CCActionInstant = {}
+function CCActionInstant:autorelease() end 
+function CCActionInstant:retain() end 
+function CCActionInstant:retainCount() end 
+function CCActionInstant:isEqual() end 
+function CCActionInstant:copy() end 
+function CCActionInstant:release() end 
+function CCActionInstant:isSingleReference() end 
+function CCActionInstant:setTag() end 
+function CCActionInstant:getOriginalTarget() end 
+function CCActionInstant:isDone() end 
+function CCActionInstant:getTarget() end 
+function CCActionInstant:getTag() end 
+function CCActionInstant:reverse() end 
+function CCActionInstant:setDuration() end 
+function CCActionInstant:getDuration() end 
+function CCActionInstant:reverse() end 
+function CCActionInstant:isDone() end 

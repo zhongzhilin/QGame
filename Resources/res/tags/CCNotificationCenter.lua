@@ -1,0 +1,20 @@
+---@classdef CCNotificationCenter
+CCNotificationCenter = {}
+function CCNotificationCenter:autorelease() end 
+function CCNotificationCenter:retain() end 
+function CCNotificationCenter:retainCount() end 
+function CCNotificationCenter:isEqual() end 
+function CCNotificationCenter:copy() end 
+function CCNotificationCenter:release() end 
+function CCNotificationCenter:isSingleReference() end 
+function CCNotificationCenter:sharedNotificationCenter() end 
+function CCNotificationCenter:new() end 
+function CCNotificationCenter:delete() end 
+function CCNotificationCenter:getScriptHandler() end 
+function CCNotificationCenter:getObserverHandlerByName() end 
+function CCNotificationCenter:postNotification() end 
+function CCNotificationCenter:new_local() end 
+function CCNotificationCenter:unregisterScriptObserver() end 
+function CCNotificationCenter:registerScriptObserver() end 
+function CCNotificationCenter:removeAllObservers() end 
+function CCNotificationCenter:purgeNotificationCenter() end 

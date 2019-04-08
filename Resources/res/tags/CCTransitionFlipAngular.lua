@@ -1,0 +1,111 @@
+---@classdef CCTransitionFlipAngular
+CCTransitionFlipAngular = {}
+function CCTransitionFlipAngular:autorelease() end 
+function CCTransitionFlipAngular:retain() end 
+function CCTransitionFlipAngular:retainCount() end 
+function CCTransitionFlipAngular:isEqual() end 
+function CCTransitionFlipAngular:copy() end 
+function CCTransitionFlipAngular:release() end 
+function CCTransitionFlipAngular:isSingleReference() end 
+function CCTransitionFlipAngular:visit() end 
+function CCTransitionFlipAngular:getUserObject() end 
+function CCTransitionFlipAngular:getSkewY() end 
+function CCTransitionFlipAngular:convertTouchToNodeSpace() end 
+function CCTransitionFlipAngular:getVertexZ() end 
+function CCTransitionFlipAngular:setParent() end 
+function CCTransitionFlipAngular:boundingBox() end 
+function CCTransitionFlipAngular:setVisible() end 
+function CCTransitionFlipAngular:stopActionByTag() end 
+function CCTransitionFlipAngular:getScaleY() end 
+function CCTransitionFlipAngular:setScaleX() end 
+function CCTransitionFlipAngular:reorderChild() end 
+function CCTransitionFlipAngular:setPositionX() end 
+function CCTransitionFlipAngular:removeFromParentAndCleanup() end 
+function CCTransitionFlipAngular:setTag() end 
+function CCTransitionFlipAngular:getChildrenCount() end 
+function CCTransitionFlipAngular:setScale() end 
+function CCTransitionFlipAngular:addChild() end 
+function CCTransitionFlipAngular:isVisible() end 
+function CCTransitionFlipAngular:setActionManager() end 
+function CCTransitionFlipAngular:setScheduler() end 
+function CCTransitionFlipAngular:getContentSize() end 
+function CCTransitionFlipAngular:getAnchorPoint() end 
+function CCTransitionFlipAngular:getTag() end 
+function CCTransitionFlipAngular:setGrid() end 
+function CCTransitionFlipAngular:convertToWorldSpace() end 
+function CCTransitionFlipAngular:setSkewX() end 
+function CCTransitionFlipAngular:setZOrder() end 
+function CCTransitionFlipAngular:worldToNodeTransform() end 
+function CCTransitionFlipAngular:getPosition() end 
+function CCTransitionFlipAngular:getSkewX() end 
+function CCTransitionFlipAngular:getScheduler() end 
+function CCTransitionFlipAngular:ignoreAnchorPointForPosition() end 
+function CCTransitionFlipAngular:setPosition() end 
+function CCTransitionFlipAngular:getParent() end 
+function CCTransitionFlipAngular:unscheduleUpdate() end 
+function CCTransitionFlipAngular:scheduleUpdateWithPriorityLua() end 
+function CCTransitionFlipAngular:removeChildByTag() end 
+function CCTransitionFlipAngular:convertToNodeSpaceAR() end 
+function CCTransitionFlipAngular:convertTouchToNodeSpaceAR() end 
+function CCTransitionFlipAngular:convertToWorldSpaceAR() end 
+function CCTransitionFlipAngular:setRotation() end 
+function CCTransitionFlipAngular:getComponent() end 
+function CCTransitionFlipAngular:convertToNodeSpace() end 
+---
+-- @return @class CCTransitionFlipAngular
+--
+function CCTransitionFlipAngular:create() end 
+function CCTransitionFlipAngular:getScale() end 
+function CCTransitionFlipAngular:getPositionY() end 
+function CCTransitionFlipAngular:getChildByTag() end 
+function CCTransitionFlipAngular:setContentSize() end 
+function CCTransitionFlipAngular:description() end 
+function CCTransitionFlipAngular:cleanup() end 
+function CCTransitionFlipAngular:getRotation() end 
+function CCTransitionFlipAngular:nodeToParentTransform() end 
+function CCTransitionFlipAngular:stopAction() end 
+function CCTransitionFlipAngular:numberOfRunningActions() end 
+function CCTransitionFlipAngular:removeAllChildren() end 
+function CCTransitionFlipAngular:runAction() end 
+function CCTransitionFlipAngular:setUserObject() end 
+function CCTransitionFlipAngular:parentToNodeTransform() end 
+function CCTransitionFlipAngular:removeChild() end 
+function CCTransitionFlipAngular:getAnchorPointInPoints() end 
+function CCTransitionFlipAngular:getScaleX() end 
+function CCTransitionFlipAngular:transform() end 
+function CCTransitionFlipAngular:getActionManager() end 
+function CCTransitionFlipAngular:draw() end 
+function CCTransitionFlipAngular:setScaleY() end 
+function CCTransitionFlipAngular:unregisterScriptHandler() end 
+function CCTransitionFlipAngular:setVertexZ() end 
+function CCTransitionFlipAngular:setAnchorPoint() end 
+function CCTransitionFlipAngular:getShaderProgram() end 
+function CCTransitionFlipAngular:stopAllActions() end 
+function CCTransitionFlipAngular:setUserData() end 
+function CCTransitionFlipAngular:setShaderProgram() end 
+function CCTransitionFlipAngular:getActionByTag() end 
+function CCTransitionFlipAngular:getGLServerState() end 
+function CCTransitionFlipAngular:getOrderOfArrival() end 
+function CCTransitionFlipAngular:getPositionX() end 
+function CCTransitionFlipAngular:setGLServerState() end 
+function CCTransitionFlipAngular:setSkewY() end 
+function CCTransitionFlipAngular:setOrderOfArrival() end 
+function CCTransitionFlipAngular:nodeToWorldTransform() end 
+function CCTransitionFlipAngular:getChildren() end 
+function CCTransitionFlipAngular:transformAncestors() end 
+function CCTransitionFlipAngular:getGrid() end 
+function CCTransitionFlipAngular:isRunning() end 
+function CCTransitionFlipAngular:registerScriptHandler() end 
+function CCTransitionFlipAngular:getCamera() end 
+function CCTransitionFlipAngular:isIgnoreAnchorPointForPosition() end 
+function CCTransitionFlipAngular:getUserData() end 
+function CCTransitionFlipAngular:setPositionY() end 
+function CCTransitionFlipAngular:getZOrder() end 
+---
+-- @return @class CCTransitionFlipAngular
+--
+function CCTransitionFlipAngular:create() end 
+---
+-- @return @class CCTransitionFlipAngular
+--
+function CCTransitionFlipAngular:create() end 

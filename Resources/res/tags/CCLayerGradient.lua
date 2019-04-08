@@ -1,0 +1,176 @@
+---@classdef CCLayerGradient
+CCLayerGradient = {}
+function CCLayerGradient:autorelease() end 
+function CCLayerGradient:retain() end 
+function CCLayerGradient:retainCount() end 
+function CCLayerGradient:isEqual() end 
+function CCLayerGradient:copy() end 
+function CCLayerGradient:release() end 
+function CCLayerGradient:isSingleReference() end 
+function CCLayerGradient:visit() end 
+function CCLayerGradient:getUserObject() end 
+function CCLayerGradient:getSkewY() end 
+function CCLayerGradient:convertTouchToNodeSpace() end 
+function CCLayerGradient:getVertexZ() end 
+function CCLayerGradient:setParent() end 
+function CCLayerGradient:boundingBox() end 
+function CCLayerGradient:setVisible() end 
+function CCLayerGradient:stopActionByTag() end 
+function CCLayerGradient:getScaleY() end 
+function CCLayerGradient:setScaleX() end 
+function CCLayerGradient:reorderChild() end 
+function CCLayerGradient:setPositionX() end 
+function CCLayerGradient:removeFromParentAndCleanup() end 
+function CCLayerGradient:setTag() end 
+function CCLayerGradient:getChildrenCount() end 
+function CCLayerGradient:setScale() end 
+function CCLayerGradient:addChild() end 
+function CCLayerGradient:isVisible() end 
+function CCLayerGradient:setActionManager() end 
+function CCLayerGradient:setScheduler() end 
+function CCLayerGradient:getContentSize() end 
+function CCLayerGradient:getAnchorPoint() end 
+function CCLayerGradient:getTag() end 
+function CCLayerGradient:setGrid() end 
+function CCLayerGradient:convertToWorldSpace() end 
+function CCLayerGradient:setSkewX() end 
+function CCLayerGradient:setZOrder() end 
+function CCLayerGradient:worldToNodeTransform() end 
+function CCLayerGradient:getPosition() end 
+function CCLayerGradient:getSkewX() end 
+function CCLayerGradient:getScheduler() end 
+function CCLayerGradient:ignoreAnchorPointForPosition() end 
+function CCLayerGradient:setPosition() end 
+function CCLayerGradient:getParent() end 
+function CCLayerGradient:unscheduleUpdate() end 
+function CCLayerGradient:scheduleUpdateWithPriorityLua() end 
+function CCLayerGradient:removeChildByTag() end 
+function CCLayerGradient:convertToNodeSpaceAR() end 
+function CCLayerGradient:convertTouchToNodeSpaceAR() end 
+function CCLayerGradient:convertToWorldSpaceAR() end 
+function CCLayerGradient:setRotation() end 
+function CCLayerGradient:getComponent() end 
+function CCLayerGradient:convertToNodeSpace() end 
+---
+-- @return @class CCLayerGradient
+--
+function CCLayerGradient:create() end 
+function CCLayerGradient:getScale() end 
+function CCLayerGradient:getPositionY() end 
+function CCLayerGradient:getChildByTag() end 
+function CCLayerGradient:setContentSize() end 
+function CCLayerGradient:description() end 
+function CCLayerGradient:cleanup() end 
+function CCLayerGradient:getRotation() end 
+function CCLayerGradient:nodeToParentTransform() end 
+function CCLayerGradient:stopAction() end 
+function CCLayerGradient:numberOfRunningActions() end 
+function CCLayerGradient:removeAllChildren() end 
+function CCLayerGradient:runAction() end 
+function CCLayerGradient:setUserObject() end 
+function CCLayerGradient:parentToNodeTransform() end 
+function CCLayerGradient:removeChild() end 
+function CCLayerGradient:getAnchorPointInPoints() end 
+function CCLayerGradient:getScaleX() end 
+function CCLayerGradient:transform() end 
+function CCLayerGradient:getActionManager() end 
+function CCLayerGradient:draw() end 
+function CCLayerGradient:setScaleY() end 
+function CCLayerGradient:unregisterScriptHandler() end 
+function CCLayerGradient:setVertexZ() end 
+function CCLayerGradient:setAnchorPoint() end 
+function CCLayerGradient:getShaderProgram() end 
+function CCLayerGradient:stopAllActions() end 
+function CCLayerGradient:setUserData() end 
+function CCLayerGradient:setShaderProgram() end 
+function CCLayerGradient:getActionByTag() end 
+function CCLayerGradient:getGLServerState() end 
+function CCLayerGradient:getOrderOfArrival() end 
+function CCLayerGradient:getPositionX() end 
+function CCLayerGradient:setGLServerState() end 
+function CCLayerGradient:setSkewY() end 
+function CCLayerGradient:setOrderOfArrival() end 
+function CCLayerGradient:nodeToWorldTransform() end 
+function CCLayerGradient:getChildren() end 
+function CCLayerGradient:transformAncestors() end 
+function CCLayerGradient:getGrid() end 
+function CCLayerGradient:isRunning() end 
+function CCLayerGradient:registerScriptHandler() end 
+function CCLayerGradient:getCamera() end 
+function CCLayerGradient:isIgnoreAnchorPointForPosition() end 
+function CCLayerGradient:getUserData() end 
+function CCLayerGradient:setPositionY() end 
+function CCLayerGradient:getZOrder() end 
+function CCLayerGradient:isTouchEnabled() end 
+function CCLayerGradient:unregisterScriptKeypadHandler() end 
+function CCLayerGradient:registerScriptAccelerateHandler() end 
+---
+-- @return @class CCLayerGradient
+--
+function CCLayerGradient:create() end 
+function CCLayerGradient:setAccelerometerEnabled() end 
+function CCLayerGradient:registerScriptKeypadHandler() end 
+function CCLayerGradient:setTouchMode() end 
+function CCLayerGradient:isAccelerometerEnabled() end 
+function CCLayerGradient:setTouchEnabled() end 
+function CCLayerGradient:setTouchPriority() end 
+function CCLayerGradient:unregisterScriptAccelerateHandler() end 
+function CCLayerGradient:unregisterScriptTouchHandler() end 
+function CCLayerGradient:setKeypadEnabled() end 
+function CCLayerGradient:registerScriptTouchHandler() end 
+function CCLayerGradient:getTouchPriority() end 
+function CCLayerGradient:isKeypadEnabled() end 
+function CCLayerGradient:getTouchMode() end 
+function CCLayerGradient:new() end 
+---
+-- @return @class CCLayerGradient
+--
+function CCLayerGradient:create() end 
+function CCLayerGradient:delete() end 
+function CCLayerGradient:updateDisplayedColor() end 
+function CCLayerGradient:init() end 
+function CCLayerGradient:setColor() end 
+function CCLayerGradient:getDisplayedColor() end 
+function CCLayerGradient:setCascadeColorEnabled() end 
+function CCLayerGradient:setCascadeOpacityEnabled() end 
+function CCLayerGradient:setOpacity() end 
+function CCLayerGradient:getColor() end 
+function CCLayerGradient:updateDisplayedOpacity() end 
+function CCLayerGradient:getOpacity() end 
+function CCLayerGradient:setOpacityModifyRGB() end 
+function CCLayerGradient:isOpacityModifyRGB() end 
+function CCLayerGradient:isCascadeOpacityEnabled() end 
+function CCLayerGradient:getDisplayedOpacity() end 
+function CCLayerGradient:new_local() end 
+function CCLayerGradient:isCascadeColorEnabled() end 
+function CCLayerGradient:changeWidthAndHeight() end 
+function CCLayerGradient:setOpacity() end 
+function CCLayerGradient:getColor() end 
+function CCLayerGradient:getOpacity() end 
+function CCLayerGradient:setColor() end 
+---
+-- @return @class CCLayerGradient
+--
+function CCLayerGradient:create() end 
+function CCLayerGradient:isOpacityModifyRGB() end 
+function CCLayerGradient:setOpacityModifyRGB() end 
+function CCLayerGradient:getBlendFunc() end 
+function CCLayerGradient:setBlendFunc() end 
+function CCLayerGradient:changeWidth() end 
+function CCLayerGradient:changeHeight() end 
+function CCLayerGradient:getStartColor() end 
+---
+-- @return @class CCLayerGradient
+--
+function CCLayerGradient:create() end 
+function CCLayerGradient:getEndColor() end 
+function CCLayerGradient:getStartOpacity() end 
+function CCLayerGradient:setStartColor() end 
+function CCLayerGradient:setCompressedInterpolation() end 
+function CCLayerGradient:getEndOpacity() end 
+function CCLayerGradient:isCompressedInterpolation() end 
+function CCLayerGradient:setEndColor() end 
+function CCLayerGradient:setVector() end 
+function CCLayerGradient:getVector() end 
+function CCLayerGradient:setStartOpacity() end 
+function CCLayerGradient:setEndOpacity() end 

@@ -1,0 +1,2 @@
+---@classdef CCAffineTransform
+CCAffineTransform = {}

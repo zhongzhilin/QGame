@@ -1,0 +1,19 @@
+---@classdef CCTMXObjectGroup
+CCTMXObjectGroup = {}
+function CCTMXObjectGroup:autorelease() end 
+function CCTMXObjectGroup:retain() end 
+function CCTMXObjectGroup:retainCount() end 
+function CCTMXObjectGroup:isEqual() end 
+function CCTMXObjectGroup:copy() end 
+function CCTMXObjectGroup:release() end 
+function CCTMXObjectGroup:isSingleReference() end 
+function CCTMXObjectGroup:getPositionOffset() end 
+function CCTMXObjectGroup:setPositionOffset() end 
+function CCTMXObjectGroup:setObjects() end 
+function CCTMXObjectGroup:objectNamed() end 
+function CCTMXObjectGroup:getGroupName() end 
+function CCTMXObjectGroup:getObjects() end 
+function CCTMXObjectGroup:setGroupName() end 
+function CCTMXObjectGroup:getProperties() end 
+function CCTMXObjectGroup:propertyNamed() end 
+function CCTMXObjectGroup:setProperties() end 

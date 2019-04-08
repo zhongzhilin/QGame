@@ -1,0 +1,111 @@
+---@classdef CCTransitionZoomFlipX
+CCTransitionZoomFlipX = {}
+function CCTransitionZoomFlipX:autorelease() end 
+function CCTransitionZoomFlipX:retain() end 
+function CCTransitionZoomFlipX:retainCount() end 
+function CCTransitionZoomFlipX:isEqual() end 
+function CCTransitionZoomFlipX:copy() end 
+function CCTransitionZoomFlipX:release() end 
+function CCTransitionZoomFlipX:isSingleReference() end 
+function CCTransitionZoomFlipX:visit() end 
+function CCTransitionZoomFlipX:getUserObject() end 
+function CCTransitionZoomFlipX:getSkewY() end 
+function CCTransitionZoomFlipX:convertTouchToNodeSpace() end 
+function CCTransitionZoomFlipX:getVertexZ() end 
+function CCTransitionZoomFlipX:setParent() end 
+function CCTransitionZoomFlipX:boundingBox() end 
+function CCTransitionZoomFlipX:setVisible() end 
+function CCTransitionZoomFlipX:stopActionByTag() end 
+function CCTransitionZoomFlipX:getScaleY() end 
+function CCTransitionZoomFlipX:setScaleX() end 
+function CCTransitionZoomFlipX:reorderChild() end 
+function CCTransitionZoomFlipX:setPositionX() end 
+function CCTransitionZoomFlipX:removeFromParentAndCleanup() end 
+function CCTransitionZoomFlipX:setTag() end 
+function CCTransitionZoomFlipX:getChildrenCount() end 
+function CCTransitionZoomFlipX:setScale() end 
+function CCTransitionZoomFlipX:addChild() end 
+function CCTransitionZoomFlipX:isVisible() end 
+function CCTransitionZoomFlipX:setActionManager() end 
+function CCTransitionZoomFlipX:setScheduler() end 
+function CCTransitionZoomFlipX:getContentSize() end 
+function CCTransitionZoomFlipX:getAnchorPoint() end 
+function CCTransitionZoomFlipX:getTag() end 
+function CCTransitionZoomFlipX:setGrid() end 
+function CCTransitionZoomFlipX:convertToWorldSpace() end 
+function CCTransitionZoomFlipX:setSkewX() end 
+function CCTransitionZoomFlipX:setZOrder() end 
+function CCTransitionZoomFlipX:worldToNodeTransform() end 
+function CCTransitionZoomFlipX:getPosition() end 
+function CCTransitionZoomFlipX:getSkewX() end 
+function CCTransitionZoomFlipX:getScheduler() end 
+function CCTransitionZoomFlipX:ignoreAnchorPointForPosition() end 
+function CCTransitionZoomFlipX:setPosition() end 
+function CCTransitionZoomFlipX:getParent() end 
+function CCTransitionZoomFlipX:unscheduleUpdate() end 
+function CCTransitionZoomFlipX:scheduleUpdateWithPriorityLua() end 
+function CCTransitionZoomFlipX:removeChildByTag() end 
+function CCTransitionZoomFlipX:convertToNodeSpaceAR() end 
+function CCTransitionZoomFlipX:convertTouchToNodeSpaceAR() end 
+function CCTransitionZoomFlipX:convertToWorldSpaceAR() end 
+function CCTransitionZoomFlipX:setRotation() end 
+function CCTransitionZoomFlipX:getComponent() end 
+function CCTransitionZoomFlipX:convertToNodeSpace() end 
+---
+-- @return @class CCTransitionZoomFlipX
+--
+function CCTransitionZoomFlipX:create() end 
+function CCTransitionZoomFlipX:getScale() end 
+function CCTransitionZoomFlipX:getPositionY() end 
+function CCTransitionZoomFlipX:getChildByTag() end 
+function CCTransitionZoomFlipX:setContentSize() end 
+function CCTransitionZoomFlipX:description() end 
+function CCTransitionZoomFlipX:cleanup() end 
+function CCTransitionZoomFlipX:getRotation() end 
+function CCTransitionZoomFlipX:nodeToParentTransform() end 
+function CCTransitionZoomFlipX:stopAction() end 
+function CCTransitionZoomFlipX:numberOfRunningActions() end 
+function CCTransitionZoomFlipX:removeAllChildren() end 
+function CCTransitionZoomFlipX:runAction() end 
+function CCTransitionZoomFlipX:setUserObject() end 
+function CCTransitionZoomFlipX:parentToNodeTransform() end 
+function CCTransitionZoomFlipX:removeChild() end 
+function CCTransitionZoomFlipX:getAnchorPointInPoints() end 
+function CCTransitionZoomFlipX:getScaleX() end 
+function CCTransitionZoomFlipX:transform() end 
+function CCTransitionZoomFlipX:getActionManager() end 
+function CCTransitionZoomFlipX:draw() end 
+function CCTransitionZoomFlipX:setScaleY() end 
+function CCTransitionZoomFlipX:unregisterScriptHandler() end 
+function CCTransitionZoomFlipX:setVertexZ() end 
+function CCTransitionZoomFlipX:setAnchorPoint() end 
+function CCTransitionZoomFlipX:getShaderProgram() end 
+function CCTransitionZoomFlipX:stopAllActions() end 
+function CCTransitionZoomFlipX:setUserData() end 
+function CCTransitionZoomFlipX:setShaderProgram() end 
+function CCTransitionZoomFlipX:getActionByTag() end 
+function CCTransitionZoomFlipX:getGLServerState() end 
+function CCTransitionZoomFlipX:getOrderOfArrival() end 
+function CCTransitionZoomFlipX:getPositionX() end 
+function CCTransitionZoomFlipX:setGLServerState() end 
+function CCTransitionZoomFlipX:setSkewY() end 
+function CCTransitionZoomFlipX:setOrderOfArrival() end 
+function CCTransitionZoomFlipX:nodeToWorldTransform() end 
+function CCTransitionZoomFlipX:getChildren() end 
+function CCTransitionZoomFlipX:transformAncestors() end 
+function CCTransitionZoomFlipX:getGrid() end 
+function CCTransitionZoomFlipX:isRunning() end 
+function CCTransitionZoomFlipX:registerScriptHandler() end 
+function CCTransitionZoomFlipX:getCamera() end 
+function CCTransitionZoomFlipX:isIgnoreAnchorPointForPosition() end 
+function CCTransitionZoomFlipX:getUserData() end 
+function CCTransitionZoomFlipX:setPositionY() end 
+function CCTransitionZoomFlipX:getZOrder() end 
+---
+-- @return @class CCTransitionZoomFlipX
+--
+function CCTransitionZoomFlipX:create() end 
+---
+-- @return @class CCTransitionZoomFlipX
+--
+function CCTransitionZoomFlipX:create() end 

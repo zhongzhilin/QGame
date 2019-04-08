@@ -1,0 +1,42 @@
+--
+-- Author: Your Name
+-- Date: 2017-04-23 18:27:42
+
+local resMgr = global.resMgr
+local uiMgr = global.uiMgr
+local luaCfg = global.luaCfg
+
+local UIRankRewardCell = class("UIRankRewardCell", function() return cc.TableViewCell:create() end )
+local item = require("game.UI.activity.Node.UIRewardItem")
+
+function UIRankRewardCell:ctor()
+    self:CreateUI()
+end
+
+function UIRankRewardCell:CreateUI()
+    self.item = item.new() 
+    self:addChild(self.item)
+end
+
+function UIRankRewardCell:onClick()
+	-- local panel =global.panelMgr:openPanel("UIActivityDetailPanel")
+	-- panel:setData(self.data)
+end
+
+function UIRankRewardCell:chooseServer()
+end 
+
+function UIRankRewardCell:setData(data)
+    self.data = data
+    self.item:setData(self.data)
+end
+
+function UIRankRewardCell:updateUI()
+   --self.item:setData(self.data)
+end
+
+ 
+return UIRankRewardCell
+
+
+

@@ -1,0 +1,111 @@
+---@classdef CCTransitionShrinkGrow
+CCTransitionShrinkGrow = {}
+function CCTransitionShrinkGrow:autorelease() end 
+function CCTransitionShrinkGrow:retain() end 
+function CCTransitionShrinkGrow:retainCount() end 
+function CCTransitionShrinkGrow:isEqual() end 
+function CCTransitionShrinkGrow:copy() end 
+function CCTransitionShrinkGrow:release() end 
+function CCTransitionShrinkGrow:isSingleReference() end 
+function CCTransitionShrinkGrow:visit() end 
+function CCTransitionShrinkGrow:getUserObject() end 
+function CCTransitionShrinkGrow:getSkewY() end 
+function CCTransitionShrinkGrow:convertTouchToNodeSpace() end 
+function CCTransitionShrinkGrow:getVertexZ() end 
+function CCTransitionShrinkGrow:setParent() end 
+function CCTransitionShrinkGrow:boundingBox() end 
+function CCTransitionShrinkGrow:setVisible() end 
+function CCTransitionShrinkGrow:stopActionByTag() end 
+function CCTransitionShrinkGrow:getScaleY() end 
+function CCTransitionShrinkGrow:setScaleX() end 
+function CCTransitionShrinkGrow:reorderChild() end 
+function CCTransitionShrinkGrow:setPositionX() end 
+function CCTransitionShrinkGrow:removeFromParentAndCleanup() end 
+function CCTransitionShrinkGrow:setTag() end 
+function CCTransitionShrinkGrow:getChildrenCount() end 
+function CCTransitionShrinkGrow:setScale() end 
+function CCTransitionShrinkGrow:addChild() end 
+function CCTransitionShrinkGrow:isVisible() end 
+function CCTransitionShrinkGrow:setActionManager() end 
+function CCTransitionShrinkGrow:setScheduler() end 
+function CCTransitionShrinkGrow:getContentSize() end 
+function CCTransitionShrinkGrow:getAnchorPoint() end 
+function CCTransitionShrinkGrow:getTag() end 
+function CCTransitionShrinkGrow:setGrid() end 
+function CCTransitionShrinkGrow:convertToWorldSpace() end 
+function CCTransitionShrinkGrow:setSkewX() end 
+function CCTransitionShrinkGrow:setZOrder() end 
+function CCTransitionShrinkGrow:worldToNodeTransform() end 
+function CCTransitionShrinkGrow:getPosition() end 
+function CCTransitionShrinkGrow:getSkewX() end 
+function CCTransitionShrinkGrow:getScheduler() end 
+function CCTransitionShrinkGrow:ignoreAnchorPointForPosition() end 
+function CCTransitionShrinkGrow:setPosition() end 
+function CCTransitionShrinkGrow:getParent() end 
+function CCTransitionShrinkGrow:unscheduleUpdate() end 
+function CCTransitionShrinkGrow:scheduleUpdateWithPriorityLua() end 
+function CCTransitionShrinkGrow:removeChildByTag() end 
+function CCTransitionShrinkGrow:convertToNodeSpaceAR() end 
+function CCTransitionShrinkGrow:convertTouchToNodeSpaceAR() end 
+function CCTransitionShrinkGrow:convertToWorldSpaceAR() end 
+function CCTransitionShrinkGrow:setRotation() end 
+function CCTransitionShrinkGrow:getComponent() end 
+function CCTransitionShrinkGrow:convertToNodeSpace() end 
+---
+-- @return @class CCTransitionShrinkGrow
+--
+function CCTransitionShrinkGrow:create() end 
+function CCTransitionShrinkGrow:getScale() end 
+function CCTransitionShrinkGrow:getPositionY() end 
+function CCTransitionShrinkGrow:getChildByTag() end 
+function CCTransitionShrinkGrow:setContentSize() end 
+function CCTransitionShrinkGrow:description() end 
+function CCTransitionShrinkGrow:cleanup() end 
+function CCTransitionShrinkGrow:getRotation() end 
+function CCTransitionShrinkGrow:nodeToParentTransform() end 
+function CCTransitionShrinkGrow:stopAction() end 
+function CCTransitionShrinkGrow:numberOfRunningActions() end 
+function CCTransitionShrinkGrow:removeAllChildren() end 
+function CCTransitionShrinkGrow:runAction() end 
+function CCTransitionShrinkGrow:setUserObject() end 
+function CCTransitionShrinkGrow:parentToNodeTransform() end 
+function CCTransitionShrinkGrow:removeChild() end 
+function CCTransitionShrinkGrow:getAnchorPointInPoints() end 
+function CCTransitionShrinkGrow:getScaleX() end 
+function CCTransitionShrinkGrow:transform() end 
+function CCTransitionShrinkGrow:getActionManager() end 
+function CCTransitionShrinkGrow:draw() end 
+function CCTransitionShrinkGrow:setScaleY() end 
+function CCTransitionShrinkGrow:unregisterScriptHandler() end 
+function CCTransitionShrinkGrow:setVertexZ() end 
+function CCTransitionShrinkGrow:setAnchorPoint() end 
+function CCTransitionShrinkGrow:getShaderProgram() end 
+function CCTransitionShrinkGrow:stopAllActions() end 
+function CCTransitionShrinkGrow:setUserData() end 
+function CCTransitionShrinkGrow:setShaderProgram() end 
+function CCTransitionShrinkGrow:getActionByTag() end 
+function CCTransitionShrinkGrow:getGLServerState() end 
+function CCTransitionShrinkGrow:getOrderOfArrival() end 
+function CCTransitionShrinkGrow:getPositionX() end 
+function CCTransitionShrinkGrow:setGLServerState() end 
+function CCTransitionShrinkGrow:setSkewY() end 
+function CCTransitionShrinkGrow:setOrderOfArrival() end 
+function CCTransitionShrinkGrow:nodeToWorldTransform() end 
+function CCTransitionShrinkGrow:getChildren() end 
+function CCTransitionShrinkGrow:transformAncestors() end 
+function CCTransitionShrinkGrow:getGrid() end 
+function CCTransitionShrinkGrow:isRunning() end 
+function CCTransitionShrinkGrow:registerScriptHandler() end 
+function CCTransitionShrinkGrow:getCamera() end 
+function CCTransitionShrinkGrow:isIgnoreAnchorPointForPosition() end 
+function CCTransitionShrinkGrow:getUserData() end 
+function CCTransitionShrinkGrow:setPositionY() end 
+function CCTransitionShrinkGrow:getZOrder() end 
+---
+-- @return @class CCTransitionShrinkGrow
+--
+function CCTransitionShrinkGrow:create() end 
+---
+-- @return @class CCTransitionShrinkGrow
+--
+function CCTransitionShrinkGrow:create() end 

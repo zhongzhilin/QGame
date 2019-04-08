@@ -1,0 +1,111 @@
+---@classdef CCTransitionCrossFade
+CCTransitionCrossFade = {}
+function CCTransitionCrossFade:autorelease() end 
+function CCTransitionCrossFade:retain() end 
+function CCTransitionCrossFade:retainCount() end 
+function CCTransitionCrossFade:isEqual() end 
+function CCTransitionCrossFade:copy() end 
+function CCTransitionCrossFade:release() end 
+function CCTransitionCrossFade:isSingleReference() end 
+function CCTransitionCrossFade:visit() end 
+function CCTransitionCrossFade:getUserObject() end 
+function CCTransitionCrossFade:getSkewY() end 
+function CCTransitionCrossFade:convertTouchToNodeSpace() end 
+function CCTransitionCrossFade:getVertexZ() end 
+function CCTransitionCrossFade:setParent() end 
+function CCTransitionCrossFade:boundingBox() end 
+function CCTransitionCrossFade:setVisible() end 
+function CCTransitionCrossFade:stopActionByTag() end 
+function CCTransitionCrossFade:getScaleY() end 
+function CCTransitionCrossFade:setScaleX() end 
+function CCTransitionCrossFade:reorderChild() end 
+function CCTransitionCrossFade:setPositionX() end 
+function CCTransitionCrossFade:removeFromParentAndCleanup() end 
+function CCTransitionCrossFade:setTag() end 
+function CCTransitionCrossFade:getChildrenCount() end 
+function CCTransitionCrossFade:setScale() end 
+function CCTransitionCrossFade:addChild() end 
+function CCTransitionCrossFade:isVisible() end 
+function CCTransitionCrossFade:setActionManager() end 
+function CCTransitionCrossFade:setScheduler() end 
+function CCTransitionCrossFade:getContentSize() end 
+function CCTransitionCrossFade:getAnchorPoint() end 
+function CCTransitionCrossFade:getTag() end 
+function CCTransitionCrossFade:setGrid() end 
+function CCTransitionCrossFade:convertToWorldSpace() end 
+function CCTransitionCrossFade:setSkewX() end 
+function CCTransitionCrossFade:setZOrder() end 
+function CCTransitionCrossFade:worldToNodeTransform() end 
+function CCTransitionCrossFade:getPosition() end 
+function CCTransitionCrossFade:getSkewX() end 
+function CCTransitionCrossFade:getScheduler() end 
+function CCTransitionCrossFade:ignoreAnchorPointForPosition() end 
+function CCTransitionCrossFade:setPosition() end 
+function CCTransitionCrossFade:getParent() end 
+function CCTransitionCrossFade:unscheduleUpdate() end 
+function CCTransitionCrossFade:scheduleUpdateWithPriorityLua() end 
+function CCTransitionCrossFade:removeChildByTag() end 
+function CCTransitionCrossFade:convertToNodeSpaceAR() end 
+function CCTransitionCrossFade:convertTouchToNodeSpaceAR() end 
+function CCTransitionCrossFade:convertToWorldSpaceAR() end 
+function CCTransitionCrossFade:setRotation() end 
+function CCTransitionCrossFade:getComponent() end 
+function CCTransitionCrossFade:convertToNodeSpace() end 
+---
+-- @return @class CCTransitionCrossFade
+--
+function CCTransitionCrossFade:create() end 
+function CCTransitionCrossFade:getScale() end 
+function CCTransitionCrossFade:getPositionY() end 
+function CCTransitionCrossFade:getChildByTag() end 
+function CCTransitionCrossFade:setContentSize() end 
+function CCTransitionCrossFade:description() end 
+function CCTransitionCrossFade:cleanup() end 
+function CCTransitionCrossFade:getRotation() end 
+function CCTransitionCrossFade:nodeToParentTransform() end 
+function CCTransitionCrossFade:stopAction() end 
+function CCTransitionCrossFade:numberOfRunningActions() end 
+function CCTransitionCrossFade:removeAllChildren() end 
+function CCTransitionCrossFade:runAction() end 
+function CCTransitionCrossFade:setUserObject() end 
+function CCTransitionCrossFade:parentToNodeTransform() end 
+function CCTransitionCrossFade:removeChild() end 
+function CCTransitionCrossFade:getAnchorPointInPoints() end 
+function CCTransitionCrossFade:getScaleX() end 
+function CCTransitionCrossFade:transform() end 
+function CCTransitionCrossFade:getActionManager() end 
+function CCTransitionCrossFade:draw() end 
+function CCTransitionCrossFade:setScaleY() end 
+function CCTransitionCrossFade:unregisterScriptHandler() end 
+function CCTransitionCrossFade:setVertexZ() end 
+function CCTransitionCrossFade:setAnchorPoint() end 
+function CCTransitionCrossFade:getShaderProgram() end 
+function CCTransitionCrossFade:stopAllActions() end 
+function CCTransitionCrossFade:setUserData() end 
+function CCTransitionCrossFade:setShaderProgram() end 
+function CCTransitionCrossFade:getActionByTag() end 
+function CCTransitionCrossFade:getGLServerState() end 
+function CCTransitionCrossFade:getOrderOfArrival() end 
+function CCTransitionCrossFade:getPositionX() end 
+function CCTransitionCrossFade:setGLServerState() end 
+function CCTransitionCrossFade:setSkewY() end 
+function CCTransitionCrossFade:setOrderOfArrival() end 
+function CCTransitionCrossFade:nodeToWorldTransform() end 
+function CCTransitionCrossFade:getChildren() end 
+function CCTransitionCrossFade:transformAncestors() end 
+function CCTransitionCrossFade:getGrid() end 
+function CCTransitionCrossFade:isRunning() end 
+function CCTransitionCrossFade:registerScriptHandler() end 
+function CCTransitionCrossFade:getCamera() end 
+function CCTransitionCrossFade:isIgnoreAnchorPointForPosition() end 
+function CCTransitionCrossFade:getUserData() end 
+function CCTransitionCrossFade:setPositionY() end 
+function CCTransitionCrossFade:getZOrder() end 
+---
+-- @return @class CCTransitionCrossFade
+--
+function CCTransitionCrossFade:create() end 
+---
+-- @return @class CCTransitionCrossFade
+--
+function CCTransitionCrossFade:create() end 

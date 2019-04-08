@@ -1,0 +1,111 @@
+---@classdef CCTransitionRotoZoom
+CCTransitionRotoZoom = {}
+function CCTransitionRotoZoom:autorelease() end 
+function CCTransitionRotoZoom:retain() end 
+function CCTransitionRotoZoom:retainCount() end 
+function CCTransitionRotoZoom:isEqual() end 
+function CCTransitionRotoZoom:copy() end 
+function CCTransitionRotoZoom:release() end 
+function CCTransitionRotoZoom:isSingleReference() end 
+function CCTransitionRotoZoom:visit() end 
+function CCTransitionRotoZoom:getUserObject() end 
+function CCTransitionRotoZoom:getSkewY() end 
+function CCTransitionRotoZoom:convertTouchToNodeSpace() end 
+function CCTransitionRotoZoom:getVertexZ() end 
+function CCTransitionRotoZoom:setParent() end 
+function CCTransitionRotoZoom:boundingBox() end 
+function CCTransitionRotoZoom:setVisible() end 
+function CCTransitionRotoZoom:stopActionByTag() end 
+function CCTransitionRotoZoom:getScaleY() end 
+function CCTransitionRotoZoom:setScaleX() end 
+function CCTransitionRotoZoom:reorderChild() end 
+function CCTransitionRotoZoom:setPositionX() end 
+function CCTransitionRotoZoom:removeFromParentAndCleanup() end 
+function CCTransitionRotoZoom:setTag() end 
+function CCTransitionRotoZoom:getChildrenCount() end 
+function CCTransitionRotoZoom:setScale() end 
+function CCTransitionRotoZoom:addChild() end 
+function CCTransitionRotoZoom:isVisible() end 
+function CCTransitionRotoZoom:setActionManager() end 
+function CCTransitionRotoZoom:setScheduler() end 
+function CCTransitionRotoZoom:getContentSize() end 
+function CCTransitionRotoZoom:getAnchorPoint() end 
+function CCTransitionRotoZoom:getTag() end 
+function CCTransitionRotoZoom:setGrid() end 
+function CCTransitionRotoZoom:convertToWorldSpace() end 
+function CCTransitionRotoZoom:setSkewX() end 
+function CCTransitionRotoZoom:setZOrder() end 
+function CCTransitionRotoZoom:worldToNodeTransform() end 
+function CCTransitionRotoZoom:getPosition() end 
+function CCTransitionRotoZoom:getSkewX() end 
+function CCTransitionRotoZoom:getScheduler() end 
+function CCTransitionRotoZoom:ignoreAnchorPointForPosition() end 
+function CCTransitionRotoZoom:setPosition() end 
+function CCTransitionRotoZoom:getParent() end 
+function CCTransitionRotoZoom:unscheduleUpdate() end 
+function CCTransitionRotoZoom:scheduleUpdateWithPriorityLua() end 
+function CCTransitionRotoZoom:removeChildByTag() end 
+function CCTransitionRotoZoom:convertToNodeSpaceAR() end 
+function CCTransitionRotoZoom:convertTouchToNodeSpaceAR() end 
+function CCTransitionRotoZoom:convertToWorldSpaceAR() end 
+function CCTransitionRotoZoom:setRotation() end 
+function CCTransitionRotoZoom:getComponent() end 
+function CCTransitionRotoZoom:convertToNodeSpace() end 
+---
+-- @return @class CCTransitionRotoZoom
+--
+function CCTransitionRotoZoom:create() end 
+function CCTransitionRotoZoom:getScale() end 
+function CCTransitionRotoZoom:getPositionY() end 
+function CCTransitionRotoZoom:getChildByTag() end 
+function CCTransitionRotoZoom:setContentSize() end 
+function CCTransitionRotoZoom:description() end 
+function CCTransitionRotoZoom:cleanup() end 
+function CCTransitionRotoZoom:getRotation() end 
+function CCTransitionRotoZoom:nodeToParentTransform() end 
+function CCTransitionRotoZoom:stopAction() end 
+function CCTransitionRotoZoom:numberOfRunningActions() end 
+function CCTransitionRotoZoom:removeAllChildren() end 
+function CCTransitionRotoZoom:runAction() end 
+function CCTransitionRotoZoom:setUserObject() end 
+function CCTransitionRotoZoom:parentToNodeTransform() end 
+function CCTransitionRotoZoom:removeChild() end 
+function CCTransitionRotoZoom:getAnchorPointInPoints() end 
+function CCTransitionRotoZoom:getScaleX() end 
+function CCTransitionRotoZoom:transform() end 
+function CCTransitionRotoZoom:getActionManager() end 
+function CCTransitionRotoZoom:draw() end 
+function CCTransitionRotoZoom:setScaleY() end 
+function CCTransitionRotoZoom:unregisterScriptHandler() end 
+function CCTransitionRotoZoom:setVertexZ() end 
+function CCTransitionRotoZoom:setAnchorPoint() end 
+function CCTransitionRotoZoom:getShaderProgram() end 
+function CCTransitionRotoZoom:stopAllActions() end 
+function CCTransitionRotoZoom:setUserData() end 
+function CCTransitionRotoZoom:setShaderProgram() end 
+function CCTransitionRotoZoom:getActionByTag() end 
+function CCTransitionRotoZoom:getGLServerState() end 
+function CCTransitionRotoZoom:getOrderOfArrival() end 
+function CCTransitionRotoZoom:getPositionX() end 
+function CCTransitionRotoZoom:setGLServerState() end 
+function CCTransitionRotoZoom:setSkewY() end 
+function CCTransitionRotoZoom:setOrderOfArrival() end 
+function CCTransitionRotoZoom:nodeToWorldTransform() end 
+function CCTransitionRotoZoom:getChildren() end 
+function CCTransitionRotoZoom:transformAncestors() end 
+function CCTransitionRotoZoom:getGrid() end 
+function CCTransitionRotoZoom:isRunning() end 
+function CCTransitionRotoZoom:registerScriptHandler() end 
+function CCTransitionRotoZoom:getCamera() end 
+function CCTransitionRotoZoom:isIgnoreAnchorPointForPosition() end 
+function CCTransitionRotoZoom:getUserData() end 
+function CCTransitionRotoZoom:setPositionY() end 
+function CCTransitionRotoZoom:getZOrder() end 
+---
+-- @return @class CCTransitionRotoZoom
+--
+function CCTransitionRotoZoom:create() end 
+---
+-- @return @class CCTransitionRotoZoom
+--
+function CCTransitionRotoZoom:create() end 

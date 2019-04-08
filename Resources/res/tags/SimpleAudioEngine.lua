@@ -1,0 +1,24 @@
+---@classdef SimpleAudioEngine
+SimpleAudioEngine = {}
+function SimpleAudioEngine:getBackgroundMusicVolume() end 
+function SimpleAudioEngine:rewindBackgroundMusic() end 
+function SimpleAudioEngine:playBackgroundMusic() end 
+function SimpleAudioEngine:preloadBackgroundMusic() end 
+function SimpleAudioEngine:pauseAllEffects() end 
+function SimpleAudioEngine:isBackgroundMusicPlaying() end 
+function SimpleAudioEngine:stopAllEffects() end 
+function SimpleAudioEngine:pauseBackgroundMusic() end 
+function SimpleAudioEngine:preloadEffect() end 
+function SimpleAudioEngine:getEffectsVolume() end 
+function SimpleAudioEngine:pauseEffect() end 
+function SimpleAudioEngine:setBackgroundMusicVolume() end 
+function SimpleAudioEngine:unloadEffect() end 
+function SimpleAudioEngine:resumeEffect() end 
+function SimpleAudioEngine:setEffectsVolume() end 
+function SimpleAudioEngine:resumeAllEffects() end 
+function SimpleAudioEngine:stopBackgroundMusic() end 
+function SimpleAudioEngine:sharedEngine() end 
+function SimpleAudioEngine:willPlayBackgroundMusic() end 
+function SimpleAudioEngine:stopEffect() end 
+function SimpleAudioEngine:playEffect() end 
+function SimpleAudioEngine:resumeBackgroundMusic() end 

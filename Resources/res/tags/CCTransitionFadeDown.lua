@@ -1,0 +1,111 @@
+---@classdef CCTransitionFadeDown
+CCTransitionFadeDown = {}
+function CCTransitionFadeDown:autorelease() end 
+function CCTransitionFadeDown:retain() end 
+function CCTransitionFadeDown:retainCount() end 
+function CCTransitionFadeDown:isEqual() end 
+function CCTransitionFadeDown:copy() end 
+function CCTransitionFadeDown:release() end 
+function CCTransitionFadeDown:isSingleReference() end 
+function CCTransitionFadeDown:visit() end 
+function CCTransitionFadeDown:getUserObject() end 
+function CCTransitionFadeDown:getSkewY() end 
+function CCTransitionFadeDown:convertTouchToNodeSpace() end 
+function CCTransitionFadeDown:getVertexZ() end 
+function CCTransitionFadeDown:setParent() end 
+function CCTransitionFadeDown:boundingBox() end 
+function CCTransitionFadeDown:setVisible() end 
+function CCTransitionFadeDown:stopActionByTag() end 
+function CCTransitionFadeDown:getScaleY() end 
+function CCTransitionFadeDown:setScaleX() end 
+function CCTransitionFadeDown:reorderChild() end 
+function CCTransitionFadeDown:setPositionX() end 
+function CCTransitionFadeDown:removeFromParentAndCleanup() end 
+function CCTransitionFadeDown:setTag() end 
+function CCTransitionFadeDown:getChildrenCount() end 
+function CCTransitionFadeDown:setScale() end 
+function CCTransitionFadeDown:addChild() end 
+function CCTransitionFadeDown:isVisible() end 
+function CCTransitionFadeDown:setActionManager() end 
+function CCTransitionFadeDown:setScheduler() end 
+function CCTransitionFadeDown:getContentSize() end 
+function CCTransitionFadeDown:getAnchorPoint() end 
+function CCTransitionFadeDown:getTag() end 
+function CCTransitionFadeDown:setGrid() end 
+function CCTransitionFadeDown:convertToWorldSpace() end 
+function CCTransitionFadeDown:setSkewX() end 
+function CCTransitionFadeDown:setZOrder() end 
+function CCTransitionFadeDown:worldToNodeTransform() end 
+function CCTransitionFadeDown:getPosition() end 
+function CCTransitionFadeDown:getSkewX() end 
+function CCTransitionFadeDown:getScheduler() end 
+function CCTransitionFadeDown:ignoreAnchorPointForPosition() end 
+function CCTransitionFadeDown:setPosition() end 
+function CCTransitionFadeDown:getParent() end 
+function CCTransitionFadeDown:unscheduleUpdate() end 
+function CCTransitionFadeDown:scheduleUpdateWithPriorityLua() end 
+function CCTransitionFadeDown:removeChildByTag() end 
+function CCTransitionFadeDown:convertToNodeSpaceAR() end 
+function CCTransitionFadeDown:convertTouchToNodeSpaceAR() end 
+function CCTransitionFadeDown:convertToWorldSpaceAR() end 
+function CCTransitionFadeDown:setRotation() end 
+function CCTransitionFadeDown:getComponent() end 
+function CCTransitionFadeDown:convertToNodeSpace() end 
+---
+-- @return @class CCTransitionFadeDown
+--
+function CCTransitionFadeDown:create() end 
+function CCTransitionFadeDown:getScale() end 
+function CCTransitionFadeDown:getPositionY() end 
+function CCTransitionFadeDown:getChildByTag() end 
+function CCTransitionFadeDown:setContentSize() end 
+function CCTransitionFadeDown:description() end 
+function CCTransitionFadeDown:cleanup() end 
+function CCTransitionFadeDown:getRotation() end 
+function CCTransitionFadeDown:nodeToParentTransform() end 
+function CCTransitionFadeDown:stopAction() end 
+function CCTransitionFadeDown:numberOfRunningActions() end 
+function CCTransitionFadeDown:removeAllChildren() end 
+function CCTransitionFadeDown:runAction() end 
+function CCTransitionFadeDown:setUserObject() end 
+function CCTransitionFadeDown:parentToNodeTransform() end 
+function CCTransitionFadeDown:removeChild() end 
+function CCTransitionFadeDown:getAnchorPointInPoints() end 
+function CCTransitionFadeDown:getScaleX() end 
+function CCTransitionFadeDown:transform() end 
+function CCTransitionFadeDown:getActionManager() end 
+function CCTransitionFadeDown:draw() end 
+function CCTransitionFadeDown:setScaleY() end 
+function CCTransitionFadeDown:unregisterScriptHandler() end 
+function CCTransitionFadeDown:setVertexZ() end 
+function CCTransitionFadeDown:setAnchorPoint() end 
+function CCTransitionFadeDown:getShaderProgram() end 
+function CCTransitionFadeDown:stopAllActions() end 
+function CCTransitionFadeDown:setUserData() end 
+function CCTransitionFadeDown:setShaderProgram() end 
+function CCTransitionFadeDown:getActionByTag() end 
+function CCTransitionFadeDown:getGLServerState() end 
+function CCTransitionFadeDown:getOrderOfArrival() end 
+function CCTransitionFadeDown:getPositionX() end 
+function CCTransitionFadeDown:setGLServerState() end 
+function CCTransitionFadeDown:setSkewY() end 
+function CCTransitionFadeDown:setOrderOfArrival() end 
+function CCTransitionFadeDown:nodeToWorldTransform() end 
+function CCTransitionFadeDown:getChildren() end 
+function CCTransitionFadeDown:transformAncestors() end 
+function CCTransitionFadeDown:getGrid() end 
+function CCTransitionFadeDown:isRunning() end 
+function CCTransitionFadeDown:registerScriptHandler() end 
+function CCTransitionFadeDown:getCamera() end 
+function CCTransitionFadeDown:isIgnoreAnchorPointForPosition() end 
+function CCTransitionFadeDown:getUserData() end 
+function CCTransitionFadeDown:setPositionY() end 
+function CCTransitionFadeDown:getZOrder() end 
+---
+-- @return @class CCTransitionFadeDown
+--
+function CCTransitionFadeDown:create() end 
+---
+-- @return @class CCTransitionFadeDown
+--
+function CCTransitionFadeDown:create() end 

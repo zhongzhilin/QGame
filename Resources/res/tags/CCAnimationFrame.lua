@@ -1,0 +1,19 @@
+---@classdef CCAnimationFrame
+CCAnimationFrame = {}
+function CCAnimationFrame:autorelease() end 
+function CCAnimationFrame:retain() end 
+function CCAnimationFrame:retainCount() end 
+function CCAnimationFrame:isEqual() end 
+function CCAnimationFrame:copy() end 
+function CCAnimationFrame:release() end 
+function CCAnimationFrame:isSingleReference() end 
+function CCAnimationFrame:new() end 
+function CCAnimationFrame:delete() end 
+function CCAnimationFrame:setDelayUnits() end 
+function CCAnimationFrame:setUserInfo() end 
+function CCAnimationFrame:getUserInfo() end 
+function CCAnimationFrame:new_local() end 
+function CCAnimationFrame:setSpriteFrame() end 
+function CCAnimationFrame:initWithSpriteFrame() end 
+function CCAnimationFrame:getSpriteFrame() end 
+function CCAnimationFrame:getDelayUnits() end 

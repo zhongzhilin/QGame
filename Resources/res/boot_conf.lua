@@ -1,0 +1,4 @@
+--_DEBUG_SERVER = 999
+_QUICK_SDK = true
+_NO_RECHARGE = false
+_IS_LINGSHI_LOGIN = false

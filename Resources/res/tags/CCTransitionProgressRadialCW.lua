@@ -1,0 +1,111 @@
+---@classdef CCTransitionProgressRadialCW
+CCTransitionProgressRadialCW = {}
+function CCTransitionProgressRadialCW:autorelease() end 
+function CCTransitionProgressRadialCW:retain() end 
+function CCTransitionProgressRadialCW:retainCount() end 
+function CCTransitionProgressRadialCW:isEqual() end 
+function CCTransitionProgressRadialCW:copy() end 
+function CCTransitionProgressRadialCW:release() end 
+function CCTransitionProgressRadialCW:isSingleReference() end 
+function CCTransitionProgressRadialCW:visit() end 
+function CCTransitionProgressRadialCW:getUserObject() end 
+function CCTransitionProgressRadialCW:getSkewY() end 
+function CCTransitionProgressRadialCW:convertTouchToNodeSpace() end 
+function CCTransitionProgressRadialCW:getVertexZ() end 
+function CCTransitionProgressRadialCW:setParent() end 
+function CCTransitionProgressRadialCW:boundingBox() end 
+function CCTransitionProgressRadialCW:setVisible() end 
+function CCTransitionProgressRadialCW:stopActionByTag() end 
+function CCTransitionProgressRadialCW:getScaleY() end 
+function CCTransitionProgressRadialCW:setScaleX() end 
+function CCTransitionProgressRadialCW:reorderChild() end 
+function CCTransitionProgressRadialCW:setPositionX() end 
+function CCTransitionProgressRadialCW:removeFromParentAndCleanup() end 
+function CCTransitionProgressRadialCW:setTag() end 
+function CCTransitionProgressRadialCW:getChildrenCount() end 
+function CCTransitionProgressRadialCW:setScale() end 
+function CCTransitionProgressRadialCW:addChild() end 
+function CCTransitionProgressRadialCW:isVisible() end 
+function CCTransitionProgressRadialCW:setActionManager() end 
+function CCTransitionProgressRadialCW:setScheduler() end 
+function CCTransitionProgressRadialCW:getContentSize() end 
+function CCTransitionProgressRadialCW:getAnchorPoint() end 
+function CCTransitionProgressRadialCW:getTag() end 
+function CCTransitionProgressRadialCW:setGrid() end 
+function CCTransitionProgressRadialCW:convertToWorldSpace() end 
+function CCTransitionProgressRadialCW:setSkewX() end 
+function CCTransitionProgressRadialCW:setZOrder() end 
+function CCTransitionProgressRadialCW:worldToNodeTransform() end 
+function CCTransitionProgressRadialCW:getPosition() end 
+function CCTransitionProgressRadialCW:getSkewX() end 
+function CCTransitionProgressRadialCW:getScheduler() end 
+function CCTransitionProgressRadialCW:ignoreAnchorPointForPosition() end 
+function CCTransitionProgressRadialCW:setPosition() end 
+function CCTransitionProgressRadialCW:getParent() end 
+function CCTransitionProgressRadialCW:unscheduleUpdate() end 
+function CCTransitionProgressRadialCW:scheduleUpdateWithPriorityLua() end 
+function CCTransitionProgressRadialCW:removeChildByTag() end 
+function CCTransitionProgressRadialCW:convertToNodeSpaceAR() end 
+function CCTransitionProgressRadialCW:convertTouchToNodeSpaceAR() end 
+function CCTransitionProgressRadialCW:convertToWorldSpaceAR() end 
+function CCTransitionProgressRadialCW:setRotation() end 
+function CCTransitionProgressRadialCW:getComponent() end 
+function CCTransitionProgressRadialCW:convertToNodeSpace() end 
+---
+-- @return @class CCTransitionProgressRadialCW
+--
+function CCTransitionProgressRadialCW:create() end 
+function CCTransitionProgressRadialCW:getScale() end 
+function CCTransitionProgressRadialCW:getPositionY() end 
+function CCTransitionProgressRadialCW:getChildByTag() end 
+function CCTransitionProgressRadialCW:setContentSize() end 
+function CCTransitionProgressRadialCW:description() end 
+function CCTransitionProgressRadialCW:cleanup() end 
+function CCTransitionProgressRadialCW:getRotation() end 
+function CCTransitionProgressRadialCW:nodeToParentTransform() end 
+function CCTransitionProgressRadialCW:stopAction() end 
+function CCTransitionProgressRadialCW:numberOfRunningActions() end 
+function CCTransitionProgressRadialCW:removeAllChildren() end 
+function CCTransitionProgressRadialCW:runAction() end 
+function CCTransitionProgressRadialCW:setUserObject() end 
+function CCTransitionProgressRadialCW:parentToNodeTransform() end 
+function CCTransitionProgressRadialCW:removeChild() end 
+function CCTransitionProgressRadialCW:getAnchorPointInPoints() end 
+function CCTransitionProgressRadialCW:getScaleX() end 
+function CCTransitionProgressRadialCW:transform() end 
+function CCTransitionProgressRadialCW:getActionManager() end 
+function CCTransitionProgressRadialCW:draw() end 
+function CCTransitionProgressRadialCW:setScaleY() end 
+function CCTransitionProgressRadialCW:unregisterScriptHandler() end 
+function CCTransitionProgressRadialCW:setVertexZ() end 
+function CCTransitionProgressRadialCW:setAnchorPoint() end 
+function CCTransitionProgressRadialCW:getShaderProgram() end 
+function CCTransitionProgressRadialCW:stopAllActions() end 
+function CCTransitionProgressRadialCW:setUserData() end 
+function CCTransitionProgressRadialCW:setShaderProgram() end 
+function CCTransitionProgressRadialCW:getActionByTag() end 
+function CCTransitionProgressRadialCW:getGLServerState() end 
+function CCTransitionProgressRadialCW:getOrderOfArrival() end 
+function CCTransitionProgressRadialCW:getPositionX() end 
+function CCTransitionProgressRadialCW:setGLServerState() end 
+function CCTransitionProgressRadialCW:setSkewY() end 
+function CCTransitionProgressRadialCW:setOrderOfArrival() end 
+function CCTransitionProgressRadialCW:nodeToWorldTransform() end 
+function CCTransitionProgressRadialCW:getChildren() end 
+function CCTransitionProgressRadialCW:transformAncestors() end 
+function CCTransitionProgressRadialCW:getGrid() end 
+function CCTransitionProgressRadialCW:isRunning() end 
+function CCTransitionProgressRadialCW:registerScriptHandler() end 
+function CCTransitionProgressRadialCW:getCamera() end 
+function CCTransitionProgressRadialCW:isIgnoreAnchorPointForPosition() end 
+function CCTransitionProgressRadialCW:getUserData() end 
+function CCTransitionProgressRadialCW:setPositionY() end 
+function CCTransitionProgressRadialCW:getZOrder() end 
+---
+-- @return @class CCTransitionProgressRadialCW
+--
+function CCTransitionProgressRadialCW:create() end 
+---
+-- @return @class CCTransitionProgressRadialCW
+--
+function CCTransitionProgressRadialCW:create() end 

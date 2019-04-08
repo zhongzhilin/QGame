@@ -1,0 +1,19 @@
+---@classdef CCSpriteFrameCache
+CCSpriteFrameCache = {}
+function CCSpriteFrameCache:autorelease() end 
+function CCSpriteFrameCache:retain() end 
+function CCSpriteFrameCache:retainCount() end 
+function CCSpriteFrameCache:isEqual() end 
+function CCSpriteFrameCache:copy() end 
+function CCSpriteFrameCache:release() end 
+function CCSpriteFrameCache:isSingleReference() end 
+function CCSpriteFrameCache:removeSpriteFrames() end 
+function CCSpriteFrameCache:removeSpriteFramesFromTexture() end 
+function CCSpriteFrameCache:addSpriteFrame() end 
+function CCSpriteFrameCache:removeUnusedSpriteFrames() end 
+function CCSpriteFrameCache:spriteFrameByName() end 
+function CCSpriteFrameCache:addSpriteFramesWithFile() end 
+function CCSpriteFrameCache:purgeSharedSpriteFrameCache() end 
+function CCSpriteFrameCache:sharedSpriteFrameCache() end 
+function CCSpriteFrameCache:removeSpriteFramesFromFile() end 
+function CCSpriteFrameCache:removeSpriteFrameByName() end 

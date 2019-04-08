@@ -1,0 +1,111 @@
+---@classdef CCTransitionJumpZoom
+CCTransitionJumpZoom = {}
+function CCTransitionJumpZoom:autorelease() end 
+function CCTransitionJumpZoom:retain() end 
+function CCTransitionJumpZoom:retainCount() end 
+function CCTransitionJumpZoom:isEqual() end 
+function CCTransitionJumpZoom:copy() end 
+function CCTransitionJumpZoom:release() end 
+function CCTransitionJumpZoom:isSingleReference() end 
+function CCTransitionJumpZoom:visit() end 
+function CCTransitionJumpZoom:getUserObject() end 
+function CCTransitionJumpZoom:getSkewY() end 
+function CCTransitionJumpZoom:convertTouchToNodeSpace() end 
+function CCTransitionJumpZoom:getVertexZ() end 
+function CCTransitionJumpZoom:setParent() end 
+function CCTransitionJumpZoom:boundingBox() end 
+function CCTransitionJumpZoom:setVisible() end 
+function CCTransitionJumpZoom:stopActionByTag() end 
+function CCTransitionJumpZoom:getScaleY() end 
+function CCTransitionJumpZoom:setScaleX() end 
+function CCTransitionJumpZoom:reorderChild() end 
+function CCTransitionJumpZoom:setPositionX() end 
+function CCTransitionJumpZoom:removeFromParentAndCleanup() end 
+function CCTransitionJumpZoom:setTag() end 
+function CCTransitionJumpZoom:getChildrenCount() end 
+function CCTransitionJumpZoom:setScale() end 
+function CCTransitionJumpZoom:addChild() end 
+function CCTransitionJumpZoom:isVisible() end 
+function CCTransitionJumpZoom:setActionManager() end 
+function CCTransitionJumpZoom:setScheduler() end 
+function CCTransitionJumpZoom:getContentSize() end 
+function CCTransitionJumpZoom:getAnchorPoint() end 
+function CCTransitionJumpZoom:getTag() end 
+function CCTransitionJumpZoom:setGrid() end 
+function CCTransitionJumpZoom:convertToWorldSpace() end 
+function CCTransitionJumpZoom:setSkewX() end 
+function CCTransitionJumpZoom:setZOrder() end 
+function CCTransitionJumpZoom:worldToNodeTransform() end 
+function CCTransitionJumpZoom:getPosition() end 
+function CCTransitionJumpZoom:getSkewX() end 
+function CCTransitionJumpZoom:getScheduler() end 
+function CCTransitionJumpZoom:ignoreAnchorPointForPosition() end 
+function CCTransitionJumpZoom:setPosition() end 
+function CCTransitionJumpZoom:getParent() end 
+function CCTransitionJumpZoom:unscheduleUpdate() end 
+function CCTransitionJumpZoom:scheduleUpdateWithPriorityLua() end 
+function CCTransitionJumpZoom:removeChildByTag() end 
+function CCTransitionJumpZoom:convertToNodeSpaceAR() end 
+function CCTransitionJumpZoom:convertTouchToNodeSpaceAR() end 
+function CCTransitionJumpZoom:convertToWorldSpaceAR() end 
+function CCTransitionJumpZoom:setRotation() end 
+function CCTransitionJumpZoom:getComponent() end 
+function CCTransitionJumpZoom:convertToNodeSpace() end 
+---
+-- @return @class CCTransitionJumpZoom
+--
+function CCTransitionJumpZoom:create() end 
+function CCTransitionJumpZoom:getScale() end 
+function CCTransitionJumpZoom:getPositionY() end 
+function CCTransitionJumpZoom:getChildByTag() end 
+function CCTransitionJumpZoom:setContentSize() end 
+function CCTransitionJumpZoom:description() end 
+function CCTransitionJumpZoom:cleanup() end 
+function CCTransitionJumpZoom:getRotation() end 
+function CCTransitionJumpZoom:nodeToParentTransform() end 
+function CCTransitionJumpZoom:stopAction() end 
+function CCTransitionJumpZoom:numberOfRunningActions() end 
+function CCTransitionJumpZoom:removeAllChildren() end 
+function CCTransitionJumpZoom:runAction() end 
+function CCTransitionJumpZoom:setUserObject() end 
+function CCTransitionJumpZoom:parentToNodeTransform() end 
+function CCTransitionJumpZoom:removeChild() end 
+function CCTransitionJumpZoom:getAnchorPointInPoints() end 
+function CCTransitionJumpZoom:getScaleX() end 
+function CCTransitionJumpZoom:transform() end 
+function CCTransitionJumpZoom:getActionManager() end 
+function CCTransitionJumpZoom:draw() end 
+function CCTransitionJumpZoom:setScaleY() end 
+function CCTransitionJumpZoom:unregisterScriptHandler() end 
+function CCTransitionJumpZoom:setVertexZ() end 
+function CCTransitionJumpZoom:setAnchorPoint() end 
+function CCTransitionJumpZoom:getShaderProgram() end 
+function CCTransitionJumpZoom:stopAllActions() end 
+function CCTransitionJumpZoom:setUserData() end 
+function CCTransitionJumpZoom:setShaderProgram() end 
+function CCTransitionJumpZoom:getActionByTag() end 
+function CCTransitionJumpZoom:getGLServerState() end 
+function CCTransitionJumpZoom:getOrderOfArrival() end 
+function CCTransitionJumpZoom:getPositionX() end 
+function CCTransitionJumpZoom:setGLServerState() end 
+function CCTransitionJumpZoom:setSkewY() end 
+function CCTransitionJumpZoom:setOrderOfArrival() end 
+function CCTransitionJumpZoom:nodeToWorldTransform() end 
+function CCTransitionJumpZoom:getChildren() end 
+function CCTransitionJumpZoom:transformAncestors() end 
+function CCTransitionJumpZoom:getGrid() end 
+function CCTransitionJumpZoom:isRunning() end 
+function CCTransitionJumpZoom:registerScriptHandler() end 
+function CCTransitionJumpZoom:getCamera() end 
+function CCTransitionJumpZoom:isIgnoreAnchorPointForPosition() end 
+function CCTransitionJumpZoom:getUserData() end 
+function CCTransitionJumpZoom:setPositionY() end 
+function CCTransitionJumpZoom:getZOrder() end 
+---
+-- @return @class CCTransitionJumpZoom
+--
+function CCTransitionJumpZoom:create() end 
+---
+-- @return @class CCTransitionJumpZoom
+--
+function CCTransitionJumpZoom:create() end 

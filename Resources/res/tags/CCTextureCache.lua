@@ -1,0 +1,21 @@
+---@classdef CCTextureCache
+CCTextureCache = {}
+function CCTextureCache:autorelease() end 
+function CCTextureCache:retain() end 
+function CCTextureCache:retainCount() end 
+function CCTextureCache:isEqual() end 
+function CCTextureCache:copy() end 
+function CCTextureCache:release() end 
+function CCTextureCache:isSingleReference() end 
+function CCTextureCache:textureForKey() end 
+function CCTextureCache:removeTexture() end 
+function CCTextureCache:removeTextureForKey() end 
+function CCTextureCache:addUIImage() end 
+function CCTextureCache:dumpCachedTextureInfo() end 
+function CCTextureCache:purgeSharedTextureCache() end 
+function CCTextureCache:addImage() end 
+function CCTextureCache:reloadAllTextures() end 
+function CCTextureCache:addPVRImage() end 
+function CCTextureCache:removeAllTextures() end 
+function CCTextureCache:removeUnusedTextures() end 
+function CCTextureCache:sharedTextureCache() end 

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "702498405423",
+    "firebase_url": "https://knights-creed-bc453.firebaseio.com",
+    "project_id": "knights-creed-bc453",
+    "storage_bucket": "knights-creed-bc453.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702498405423:android:32a070798c6bf80f",
+        "android_client_info": {
+          "package_name": "com.special.knightscreed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702498405423-22mlbmlea2us6s2062jm61j1b0mduevl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUm5KP4647UdSiaEkXvl-OX1waI4EusTA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
